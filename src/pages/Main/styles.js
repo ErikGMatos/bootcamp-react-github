@@ -83,7 +83,7 @@ export const List = styled.ul`
     justify-content: space-between;
     align-items: center;
 
-    & + li{
+    & + li {
       border-top: 1px solid #eee;
     }
 
